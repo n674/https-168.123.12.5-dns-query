@@ -1,0 +1,8 @@
+echo "# https-168.123.12.5-dns-query" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk commit" 
+git branch -M main 
+git uzak kaynak ekle https://github.com/ n674 / https-168.123.12.5-dns-query.git
+ git push -u kaynak ana
+                
