@@ -1,4 +1,4 @@
-echo "# https-168.123.12.5-dns-query" >> README.md 
+echo "# https://168.123.12.5/dns-query" >> README.md 
 git init 
 git add README.md 
 git commit -m "ilk commit" 
